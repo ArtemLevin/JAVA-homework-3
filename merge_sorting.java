@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Random;
 
-public class ht_3_t_1 {
+public class merge_sorting {
 
     public static ArrayList<Integer> merging (ArrayList<Integer> left, ArrayList<Integer> right) {
         
