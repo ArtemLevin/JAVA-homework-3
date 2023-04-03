@@ -1,3 +1,5 @@
+// Пусть дан произвольный список целых чисел, удалить из него чётные числа
+
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Random;

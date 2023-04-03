@@ -1,3 +1,5 @@
+// Задан целочисленный список ArrayList. Найти минимальное, максимальное и среднее ариф. из этого списка.
+
 import java.util.ArrayList;
 import java.util.Random;
 
